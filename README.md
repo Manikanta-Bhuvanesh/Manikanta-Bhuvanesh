@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manikanta-bhuvanesh" alt="manikanta-bhuvanesh" /></a> </p>
 
-- 🌱 I’m currently learning **Cybersecurity and ethical hacking**
+- 🌱 I’m currently learning **Cybersecurity and Data science**
 
 - 📫 How to reach me **bhuvanesh.valiveti@gmail.com**
 
