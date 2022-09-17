@@ -5,5 +5,3 @@
 
 - 📫 How to reach me **bhuvanesh.valiveti@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-
